@@ -1,0 +1,12 @@
+argparse
+ipaddress
+intersight
+jinja2
+simplejson
+lxml
+openpyxl
+ordered_set
+phonenumbers
+requests
+stdiomask
+validators
